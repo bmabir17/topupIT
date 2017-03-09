@@ -1,0 +1,44 @@
+body {
+
+	text-align: center;
+	border:3px solid darkblue;
+	background-position:right bottom, left top;
+}
+ #background1{
+ 	background-position:right bottom, left top;
+	background-repeat: no-repeat, repeat;
+	padding: 15px;
+	background-color : #33ccff;
+ }
+
+h1 {
+	
+	color : darkblue ;
+	text-align : center ;
+}
+
+h2 {
+	color : darkblue;
+	text-align : center ;
+}
+h3 {
+	color : darkblue;
+	text-align : center ;
+}
+img {
+	display :auto;
+	margin:auto;
+	width:;
+	align-self: center;
+}
+
+p{
+	color :darkblue;
+	text-align: center;
+}
+p{
+	font-family : verdana ;
+	font-size : 20 px 
+
+}
+
